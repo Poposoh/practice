@@ -1,4 +1,5 @@
-import { ChangeEvent, ChangeEventHandler, useState } from "react";
+//产品表格的搜索过滤
+import { useState } from "react";
 import "./index.css"
 const dataSource = [
   { category: "Fruits", price: "$1", stocked: true, name: "Apple" },

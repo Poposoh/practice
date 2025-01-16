@@ -1,6 +1,6 @@
 import React from "react";
-import CommentInput from "../components/CommentInput";
-import CommentList from "../components/CommentList";
+import CommentInput from "./CommentInput";
+import CommentList from "./CommentList";
 import "./Comment.css";
 
 // 评论组件
